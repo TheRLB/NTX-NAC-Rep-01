@@ -1,0 +1,68 @@
+/* Start: ILLIG Standard Formular Style */
+/* Apply a style to the form */
+.nx-theme-styles .nx-theme-form { 
+	background-color: #FFF8DC; 
+}
+/* Apply a style to the page */
+.nx-theme-styles .nx-theme-page {
+  background-color: #bd0451;
+}
+/* Apply a style to the Submit button */
+.nx-theme-styles .nx-theme-form .nx-theme-button-1 { 
+  background-color: #9c2be7; 
+  color: #ebfdbf; 
+  font-size: 1.2em; 
+  text-transform: uppercase; 
+  font-weight: 700; 
+  width: 100%;
+/* Apply styles to controls */
+/* Apply a style to all controls */
+.nx-theme-styles .nx-theme-form .form-group 
+  { padding: 30px; border: 1px solid #9d9d9d; 
+}
+/* Apply a style to control labels */
+.nx-theme-styles .nx-theme-form .nx-theme-label-1 { 
+  text-align: right; 
+  color: #910adf; 
+  text-transform: uppercase; 
+  text-decoration: underline; 
+}
+/* Apply styles to specific form controls */
+/* Apply styles to all controls with text input */
+.nx-theme-styles .nx-theme-form .nx-theme-input-1 { 
+  background-color: #5f585f; 
+  color: #ffee00;
+}
+/* Apply styles to a specific control using custom CSS classes */
+.nx-theme-styles .custom-address label {
+  color: #17a80b; 
+}
+.nx-theme-styles .custom-address.address-control.address-1 * {
+  color: #17a80b; 
+}
+/* Create a header using CSS */
+/* Fix the height of the form and make it scrollable within the form */ 
+.nx-form.container-fluid.nx-theme-form { 
+  height: 700px; 
+  overflow: auto; 
+} 
+ntx-multi-page .nx-multi-page { 
+  position: relative; 
+} 
+/* Sticky Header */ 
+.nx-multi-page-heading { 
+  position: sticky; 
+  top: -30px; 
+  z-index: 999; 
+  background-color: #ebe419;
+}
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
