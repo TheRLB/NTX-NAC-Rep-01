@@ -1,6 +1,6 @@
 /* Start: ILLIG Standard Formular Style */
 [dir] .nx-theme-styles .nx-form-heading {
-    border-bottom-color: transparent !important; /* Make the bottom border transparent */
+    border-bottom-color: transparent; /* !important Make the bottom border transparent */
     background-color: #ffffff; /* Set the background color */
     display: flex; /* Use flexbox to align items */
     align-items: center; /* Vertically center items */
