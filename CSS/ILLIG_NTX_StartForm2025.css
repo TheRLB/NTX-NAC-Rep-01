@@ -11,4 +11,9 @@
     float: left;
     width: 60%;
     text-align: left;
+    
 }
+
+.nx-form.container-fluid.nx-theme-form { 
+  overflow: auto; 
+} 
