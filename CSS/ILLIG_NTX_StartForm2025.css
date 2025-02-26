@@ -2,18 +2,23 @@
 [dir] .nx-theme-styles .nx-form-heading .top-titel{
     /*border-bottom-color: transparent; /* !important Make the bottom border transparent */
    background-color: #ffffff; /* Set the background color */
-   /* display: flex; /* Use flexbox to align items */
-   /* align-items: center; /* Vertically center items */
-   /* justify-content: space-between; /* Distribute space between items */
-   /* padding: 10px; /* Set padding */
+   display: flex; /* Use flexbox to align items */
+   align-items: center; /* Vertically center items */
+   justify-content: space-between; /* Distribute space between items */
+   padding: 5px; /* Set padding */
    /* box-sizing: border-box; /* Ensure padding and border are included in the total width and height */
     font-family: Open Sans;
     float: left;
     width: 60%;
     text-align: left;
-    
 }
 
 .nx-form.container-fluid.nx-theme-form { 
   overflow: auto; 
 } 
+
+.nx-theme-styles .nx-form-heading .top-logo {
+  float: right;
+  width: 40%;
+  text-align:right;
+}
