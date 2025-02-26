@@ -1,5 +1,5 @@
 /* Start: ILLIG Standard Formular Style */
-[dir] .nx-theme-styles .nx-form-heading .top-titel{
+[dir] .nx-theme-styles .nx-form-heading .top-titel {
     /*border-bottom-color: transparent; /* !important Make the bottom border transparent */
    background-color: #ffffff; /* Set the background color */
    display: flex; /* Use flexbox to align items */
@@ -57,11 +57,13 @@
     float:center;
     width: 100%;
     text-align:center;
-  };
+  }
+    
   .nx-theme-styles.nx-form-heading.top-titel h1, .nx-theme-styles.nx-form-heading.top-titel h2 {
     width: 100%;
     text-align:center;
-  };
+  }
+    
   .nx-theme-styles.nx-form-heading.top-logo img {
     width: 100%;
     text-align:center;
