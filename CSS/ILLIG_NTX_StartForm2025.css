@@ -7,7 +7,7 @@
    justify-content: space-between; /* Distribute space between items */
    padding: 5px; /* Set padding */
    /* box-sizing: border-box; /* Ensure padding and border are included in the total width and height */
-    font-family: Open Sans;
+    font-family:'Trebuchet/Trebuchet MS';
     float: left;
     width: 60%;
     text-align: left;
@@ -30,7 +30,7 @@
   display: block;
   width: 100%;
   color: #6d7379;
-  font-family:Open Sans;
+  font-family:'Trebuchet/Trebuchet MS';
 }
 
 .nx-theme-styles .nx-form-heading .top-titel h2 {
@@ -40,7 +40,7 @@
   display: block;
   width: 100%;
   color: #6d7379;
-  font-family:Open Sans;
+  font-family:'Trebuchet/Trebuchet MS';
 }
 
 .nx-theme-styles .nx-form-heading .top-logo img {
