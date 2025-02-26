@@ -1,1 +1,10 @@
-ILLIG_NTX_Style_StartForm.css
+
+[dir] .nx-theme-styles .nx-form-heading {
+    border-bottom-color: transparent !important; /* Make the bottom border transparent */
+    background-color: #253e51; /* Set the background color */
+    display: flex; /* Use flexbox to align items */
+    align-items: center; /* Vertically center items */
+    justify-content: space-between; /* Distribute space between items */
+    padding: 10px; /* Set padding */
+    box-sizing: border-box; /* Ensure padding and border are included in the total width and height */
+}
